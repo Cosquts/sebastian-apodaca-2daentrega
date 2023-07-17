@@ -341,7 +341,12 @@ main.sn-main img {
     border-radius: 100px;
   }
 
-  
+  main.sn-main div.bio h2,main.sn-main div.bio h3{
+    font-size: 18px;
+  }
+  footer p{
+    font-size: 10px;
+  }
 }
 
 @media screen and (min-width: 451px) {
